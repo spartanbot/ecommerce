@@ -4,6 +4,7 @@
     Spartanbots Fashion - Wishlist Page
 @endsection
 
+
 @section('frontend_content')
 <div class="body-content">
 	<div class="container">
