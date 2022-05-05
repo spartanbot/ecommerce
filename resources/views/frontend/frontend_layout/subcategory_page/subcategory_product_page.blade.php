@@ -1,7 +1,7 @@
 @extends('frontend.frontend_master')
 
 @section('title')
-    Al Araf Fashion - SubCategory Product
+    Spartanbots Fashion - SubCategory Product
 @endsection
 
 @section('frontend_content')

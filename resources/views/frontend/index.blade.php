@@ -1,7 +1,7 @@
 @extends('frontend.frontend_master')
 
 @section('title')
-    Al Araf Fashion
+     SpartanBots Fashion
 @endsection
 
 @section('frontend_content')
